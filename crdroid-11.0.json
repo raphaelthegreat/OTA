@@ -2,12 +2,12 @@
   "response": [
     {
       "datetime": 1608471600,
-      "filename": "crDroidAndroid-11.0-20201220-NB1-v7.1",
+      "filename": "crDroidAndroid-11.0-20201219-NB1-v7.1",
       "id": "mbnwqVb2jO3qVYfb9bFR6kIBQSIFfvmx",
       "romtype": "UNOFFICIAL",
       "size": 714660405,
       "url": "https://github.com/GPUCode/android_device_nokia_nb1/releases/download/v7.1.4/crDroidAndroid-11.0-20201219-NB1-v7.1.zip",
       "gapps": "https://nikgapps.com",
-      "version": "7.2"
+      "version": "7.1"
     }
   ]
