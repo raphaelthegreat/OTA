@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Nokia 8
+Device maintainer: emufan4568
+
+===== 19 December, 2020 =====
+- Initial crDroid 7.1 Unofficial Build
+- Merged December 2020 security update
+- Performance and stability improvements
+- Call quality improvements
+- Stereo recording fixed
+- Updated OpenGL and Vulkan drivers
+- 4K Video recording fixed
