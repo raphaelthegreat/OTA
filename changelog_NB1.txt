@@ -9,3 +9,15 @@ Device maintainer: emufan4568
 - Performance and stability improvements
 - Improved battery drain
 - Fixed internal audio recording
+
+===== 15 April, 2021 =====
+- Initial crDroid 7.5 unofficial build
+- Merged April 2021 security update
+- Improved audio quality on calls
+- Fixed echo on network calls
+- Improved battery life
+- Improved performance
+- Fixed stock LineageOS recovery
+- Fixed offline charging
+- Fast charging is more consistent
+- Tons of internal cleanup and refinement
