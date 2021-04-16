@@ -3,13 +3,6 @@ Build type: Monthly
 Device: Nokia 8
 Device maintainer: emufan4568
 
-===== 28 January, 2021 =====
-- Initial crDroid 7.2 Unofficial Build
-- Merged January 2021 security update
-- Performance and stability improvements
-- Improved battery drain
-- Fixed internal audio recording
-
 ===== 15 April, 2021 =====
 - Initial crDroid 7.5 unofficial build
 - Merged April 2021 security update
@@ -21,3 +14,10 @@ Device maintainer: emufan4568
 - Fixed offline charging
 - Fast charging is more consistent
 - Tons of internal cleanup and refinement
+
+===== 28 January, 2021 =====
+- Initial crDroid 7.2 Unofficial Build
+- Merged January 2021 security update
+- Performance and stability improvements
+- Improved battery drain
+- Fixed internal audio recording
